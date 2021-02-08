@@ -6,5 +6,6 @@
 explore new ideas. </p>
 </body>
 
-<center><img src = " images/diy-letters-vector-illustration-happy-260nw-749071765.jpg" alt ="DIY"></center>
+<center><img src = "images/diy-letters-vector-illustration-happy-260nw-749071765.jpg" alt ="DIY"></center>
+
 </html>
