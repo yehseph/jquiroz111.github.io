@@ -6,6 +6,6 @@
 explore new ideas. </p>
 <center><img src = "images/diy-letters-vector-illustration-happy-260nw-749071765.jpg" alt ="DIY"></center> <br>
 <center> <a href="smart_phone_projector.htm" DIY Smartphone Projector </a> </center>
- <p>< <a href="smartphone_projector.md"> DIY Smartphone Projector </a></p>
+ <p>< <a href="pages/smartphone_projector.md"> DIY Smartphone Projector </a></p>
 </body>
 </html>
