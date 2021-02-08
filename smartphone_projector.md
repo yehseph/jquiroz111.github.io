@@ -26,11 +26,9 @@
   <li>Finally, add the smartphone on the stand </li>
   <center><img src = "images/add%20smartphone.jpg" alt ="Adding Smartphone"></center> <br>
 
-<a href="index.md" Home Page </a>
+<p> <a href="index.md"> Home Page </a> </p>
 
 </body>
-
-
 
 
 
