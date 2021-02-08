@@ -1,5 +1,5 @@
 <html>
- <body>
+<body>
 <head>
 <h1> DIY Smart Phone Projector </h1>
 </head>
