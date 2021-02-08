@@ -13,7 +13,7 @@
   <li> smartphone </li>
 </ul> <br>
 
-<h1 Making the Projector </h1>
+<h2> Making the Projector </h2>
 <ol>
   <li> First place the maginifying glass on the front of the box and trace it. </li>
   <center><img src = "images/tracing.jpg" alt ="DIY"></center> <br>
