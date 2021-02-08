@@ -2,7 +2,6 @@
 <head>
 <h1> DIY Smart Phone Projector </h1>
 </head>
-<body bgcolor= "LightCyan">
 
 <h2> Things that you need</h2><br>
 <ul>
