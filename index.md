@@ -37,7 +37,7 @@
             <li><a href="index.html">Home</a></li>
             <li><a href="jaxon'sDIY.html">Jaxon's</a></li>
             <li><a href="">DIY computer</a></li>
-            <li><a href="">smartphone_projector.md</a></li>
+            <li><a href="smartphone_projector.md">Smartphone Projector</a></li>
 
         </ul>
     </nav>
