@@ -21,6 +21,7 @@
             <li><a href="jaxon'sDIY.html">Jaxon's</a></li>
             <li><a href="">DIY computer</a></li>
             <li><a href="smartphone_projector.md">Smartphone Projector</a></li>
+            <li><a href="vr_goggles.md">Virtual Reality Goggles</a></li>
 
         </ul>
     </nav>
@@ -38,6 +39,7 @@
             <li><a href="jaxon'sDIY.html">Jaxon's</a></li>
             <li><a href="">DIY computer</a></li>
             <li><a href="smartphone_projector.md">Smartphone Projector</a></li>
+            <li><a href="vr_goggles.md">Virtual Reality Goggles</a></li>
 
         </ul>
     </nav>
