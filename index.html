@@ -14,7 +14,7 @@
 
 <body>
 <header>
-    <h1>Welcome to our how to do it website!</h1>
+  <marquee><h1>Welcome to our how to do it website!</h1></marquee>
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -26,6 +26,18 @@
         </ul>
     </nav>
 </header>
+  <script type="text/javascript"> 
+function display_c(){
+var refresh=1000; // Refresh rate in milli seconds
+mytime=setTimeout('display_ct()',refresh)
+}
+
+function display_ct() {
+var x = new Date()
+document.getElementById('ct').innerHTML = x;
+display_c();
+ }
+</script>
 
 <h1>WIP</h1>
 
