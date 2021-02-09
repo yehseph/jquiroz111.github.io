@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <html>
 <body>
 <head>
@@ -28,7 +32,9 @@
   <li>Have fun!</li>
   <center><img src = "images/vr_partthree.jpg" alt ="Have fun!"></center> <br>
 
-<p><a href="index.md"> Home Page </a></p>
+<p><a href="index.md"> Home Page </a>
+   <a href="smartphone_project.html"> Smartphone Projector
+</p>
 
 </body>
 
