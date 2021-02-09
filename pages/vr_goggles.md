@@ -15,10 +15,10 @@
 </ul> <br>
 
 <h2> Making VR Goggles </h2>
+<center><img src = "images/vrgoggles.jpg" alt ="VR Goggles"></center> <br>
 <ol>
   <li> First, print out the template from the pdf file below. </li>
   <a href="https://content.instructables.com/ORIG/FLH/52OT/I4SCNTHI/FLH52OTI4SCNTHI.zip">VR Goggles Template</a>
-  <center><img src = "images/vrgoggles.jpg" alt ="VR Goggles"></center> <br>
   <li> Second, use the scissors and the Xacto knife to cut out the templates after placing the template over the cardboard.</li>
   <li> Remember to layout the cutouts and line up the edges, using glue/velcro/other connective material to secure the goggles. </li>
 <center><img src = "images/lineup_vrgoggles.jpg" alt ="Lining up template with cardboard"></center> <br>
