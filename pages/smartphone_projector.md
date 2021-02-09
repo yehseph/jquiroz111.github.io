@@ -16,15 +16,15 @@
 <h2> Making the Projector </h2>
 <ol>
   <li> First, place the maginifying glass on the front of the box and trace it. </li>
-  <center><img src = "images/tracing.jpg" alt ="Tracing"></center> <br>
+  <center><img src = "/images/tracing.jpg" alt ="Tracing"></center> <br>
   <li> Second, use the scissors and the knife to cut the a hole lightly smaller than the traced circle </li>
   <li> With a spare piece of cardboard, fold the cardboard to make it a stand for the smartphone. Secure it with tape. </li>
-<center><img src = "images/tape.jpg" alt ="Securing with tape"></center> <br>
+<center><img src = "/images/tape.jpg" alt ="Securing with tape"></center> <br>
   <li> Slide the phone into the box, under a cardboard flap.</li>
-  <center><img src = "images/placing%20tape.jpg" alt ="Placing Stand"></center> <br>
+  <center><img src = "/images/placing%20tape.jpg" alt ="Placing Stand"></center> <br>
   <li> Next, tape the maginifying glass inside the box aligned with hole in the box </li>
   <li>Finally, add the smartphone on the stand </li>
-  <center><img src = "images/add%20smartphone.jpg" alt ="Adding Smartphone"></center> <br>
+  <center><img src = "/images/add%20smartphone.jpg" alt ="Adding Smartphone"></center> <br>
 
 <p> <a href="index.md"> Home Page </a> </p>
 
