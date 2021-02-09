@@ -23,7 +23,7 @@
   <li> Remember to layout the cutouts and line up the edges, using glue/velcro/other connective material to secure the goggles. </li>
 <center><img src = "images/lineup_vrgoggles.jpg" alt ="Lining up template with cardboard"></center> <br>
   <li> Make sure mobile device can be secure, do not use glue to attach the device.</li>
-  <center><img src = "images/vr_partone.jpg" alt ="Putting it together"></center> <br>
+  <center><img src = "images/vr_parttwo.jpg" alt ="Putting it together"></center> <br>
   <li> Download a VR application from your mobile device's app store.</li>
   <li>Have fun!</li>
   <center><img src = "images/vr_partthree.jpg" alt ="Have fun!"></center> <br>
